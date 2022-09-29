@@ -1,0 +1,68 @@
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\appsettings.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\apiSecurity.exe
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\apiSecurity.deps.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\apiSecurity.runtimeconfig.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\apiSecurity.pdb
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.csproj.AssemblyReference.cache
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.AssemblyInfoInputs.cache
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.AssemblyInfo.cs
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.csproj.CoreCompileInputs.cache
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\scopedcss\bundle\apiSecurity.styles.css
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.csproj.CopyComplete
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\refint\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.pdb
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\apiSecurity.genruntimeconfig.cache
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\obj\Debug\net6.0\ref\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\info-aplicada-team\apiSecurity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\appsettings.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\apiSecurity.exe
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\apiSecurity.deps.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\apiSecurity.runtimeconfig.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\apiSecurity.pdb
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.csproj.AssemblyReference.cache
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.AssemblyInfoInputs.cache
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.AssemblyInfo.cs
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.csproj.CoreCompileInputs.cache
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\scopedcss\bundle\apiSecurity.styles.css
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.csproj.CopyComplete
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\refint\apiSecurity.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.pdb
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\apiSecurity.genruntimeconfig.cache
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\obj\Debug\net6.0\ref\apiSecurity.dll
