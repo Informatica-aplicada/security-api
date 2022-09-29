@@ -7,24 +7,26 @@ namespace apiSecurity.Services
 {
     public class RoleService
     {
-        public RoleService(){}
+        public RoleService() { }
         DataRoles dR = new DataRoles();
 
-           public List<Roles>  getUserRoles(LoginCredentials auth){
+        public List<Roles> getUserRoles(LoginCredentials auth)
+        {
             return dR.List(auth);
         }
 
 
-        public async Task<List<Data>>  Personinfo([FromBody] int[] id) {
+        public async Task<List<Data>> Personinfo([FromBody] int[] id)
+        {
 
-            List<Data> person = new List<Data> ();
+            List<Data> person = new List<Data>();
             var json = JsonConvert.SerializeObject(id);
 
             var client = new HttpClient();
             var request = new HttpRequestMessage
             {
                 Method = HttpMethod.Post,
-                RequestUri = new Uri("http://localhost:5401/api/person/ids"),
+                RequestUri = new Uri("https://person-microservices.azurewebsites.net/api/person/ids"),
                 Content = new StringContent(json)
                 {
                     Headers =

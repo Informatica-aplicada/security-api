@@ -11,9 +11,6 @@ namespace apiSecurity.Controllers;
 [Route("roles")]
 public class RolesAPI : ControllerBase
 {   
-
-
- 
         RoleService services = new RoleService();
         [HttpGet("index")]
         public string index(){
