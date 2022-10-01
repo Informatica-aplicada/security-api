@@ -23,8 +23,8 @@ namespace AuthJWT
             var payload = new JwtPayload       {
             {"Name",data.Name},
              {"LastName",data.LastName},
-            { "Roles", data.RoleSpa },
-            { "Permissions", data.IdPermission },
+            { "Roles", data.RoelsId },
+            { "Permissions", data.SpaNames },
             { "exp", unixTimestamp + expirationTime}
             };
 

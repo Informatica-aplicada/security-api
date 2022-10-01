@@ -4,8 +4,8 @@ namespace apiSecurity.Models
     {
           public string Name { get; set; }
         public string LastName { get; set; }
-         public List<String> RoleSpa { get; set; }
-        public List<int> IdPermission { get; set; }
+         public List<int>   RoelsId{ get; set; }
+        public List<String> SpaNames { get; set; }
 
     }
 }

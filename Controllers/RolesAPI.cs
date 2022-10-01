@@ -27,8 +27,8 @@ public class RolesAPI : ControllerBase
 
         List<Data> data = await services.Personinfo(new int[] { roles[0].BusinessEntityID }); //mando id saco permisos y roles
 
-        data[0].RoleSpa = TokenGenerator.AddRoles(roles);
-        data[0].IdPermission = TokenGenerator.AddPermissions(roles);
+        data[0].RoelsId = TokenGenerator.AddRoles(roles);
+        data[0].SpaNames = TokenGenerator.AddPermissions(roles);
         
         var token = jwt.generateToken(data[0]);  //creo token con los datos
         return token;

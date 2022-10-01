@@ -9,24 +9,24 @@ namespace apiSecurity.token
     {
     
 
-        public static List<String> AddRoles(List<Roles> roles)
+        public static List<int> AddRoles(List<Roles> roles)
         {
-            List<String> rolesSpa = new List<String>();
+            List<int> rolesSpa = new List<int>();
 
             foreach (var item in roles)
             {
-                rolesSpa.Add(item.SpaName);
+                rolesSpa.Add(item.IdRole);
             }
             return rolesSpa;
         }
 
-           public static List<int> AddPermissions(List<Roles> roles)
+           public static List<String> AddPermissions(List<Roles> roles)
         {
-            List<int> Permissions = new List<int>();
+            List<String> Permissions = new List<String>();
 
             foreach (var item in roles)
             {
-                Permissions.Add(item.IdPermission);
+                Permissions.Add(item.SpaName);
             }
             return Permissions;
         }
