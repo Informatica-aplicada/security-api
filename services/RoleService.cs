@@ -14,14 +14,11 @@ namespace apiSecurity.Services
         {
             return dR.List(auth);
         }
-
-
+        
         public async Task<List<Data>> Personinfo([FromBody] int[] id)
         {
-
             List<Data> person = new List<Data>();
             var json = JsonConvert.SerializeObject(id);
-
             var client = new HttpClient();
             var request = new HttpRequestMessage
             {
