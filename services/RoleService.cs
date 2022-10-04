@@ -5,13 +5,12 @@ using Newtonsoft.Json;
 using System.Net.Http.Headers;
 namespace apiSecurity.Services
 {
-    public class RoleService
+    public class RoleService : IRoles
     {
-        public RoleService() { }
-        DataRoles dR = new DataRoles();
 
-        public List<Roles> getUserRoles(LoginCredentials auth)
-        {
+        DataRoles dR = new DataRoles();
+        
+        public List<Roles>  getUserRoles(LoginCredentials auth){
             return dR.List(auth);
         }
         
