@@ -74,3 +74,8 @@ C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debu
 C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\chose\Documents\proyecto aplicada\Repo apiScurity\security-api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
