@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 var builder = WebApplication.CreateBuilder(args);
-var  MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -14,15 +13,10 @@ builder.Services.AddSwaggerGen();
 
 var key = "infoAplicadaSecretKey123!";
 
-builder.Services.AddCors(options =>
+builder.Services.AddCors(options => options.AddPolicy("corspolicy", build =>
 {
-    options.AddPolicy(name: MyAllowSpecificOrigins,
-                      policy  =>
-                      {
-                          policy.WithOrigins("http://example.com",   //CAMBIAR A SU DOMINIO
-                                              "http://www.contoso.com");
-                      });
-});
+    build.WithOrigins("http://localhost:3000", "http://localhost:5402").AllowAnyHeader().AllowAnyMethod();
+}));
 
 builder.Services.AddAuthentication(x =>
 {
@@ -57,10 +51,10 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseCors(MyAllowSpecificOrigins);
+app.UseCors("corspolicy");
+
 app.UseAuthentication();////////
 app.UseAuthorization();
 
 app.MapControllers();
-
 app.Run();
