@@ -3,4 +3,6 @@ public interface IRoles
 {
    List<Roles> getUserRoles(LoginCredentials auth);
    Task<List<Data>>  Personinfo(int[] id);
+
+   Task<Data> getData(LoginCredentials auth);
 }

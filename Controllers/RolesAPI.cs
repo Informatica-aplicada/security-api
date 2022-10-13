@@ -23,16 +23,19 @@ public class RolesAPI : ControllerBase
     [HttpPost("id")]
     public async Task<String> generateToken([FromBody] LoginCredentials auth)
     {
-        List<Roles> roles = services.getUserRoles(auth); //mando login, saco id
-
-        List<Data> data = await services.Personinfo(new int[] { roles[0].BusinessEntityID }); //mando id saco permisos y roles
-
-        data[0].RoelsId = TokenGenerator.AddRoles(roles);
-        data[0].SpaNames = TokenGenerator.AddPermissions(roles);
-        
-        var token = jwt.generateToken(data[0]);  //creo token con los datos
-        return token;
+        if(services.getUserRoles(auth).Count == 0){
+            return ""; //mensaje de error
+        }else{
+        return jwt.generateToken(services.getData(auth).Result);
+        }
     }
 
+
+
+    [HttpGet("index")]
+    public async Task<String> index()
+    {
+        return "TODO OKI";
+    }
 
 }

@@ -3,6 +3,7 @@ using apiSecurity.Models;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
+using apiSecurity.token;
 namespace apiSecurity.Services
 {
     public class RoleService : IRoles
@@ -41,6 +42,19 @@ namespace apiSecurity.Services
 
             return person;
 
+        }
+
+        public async Task<Data> getData(LoginCredentials auth)
+        {
+
+      
+        List<Roles> roles = getUserRoles(auth); //mando login, saco id
+
+        List<Data> data = await Personinfo(new int[] { roles[0].BusinessEntityID }); //mando id saco permisos y roles
+
+        data[0].RoelsId = TokenGenerator.AddRoles(roles);
+        data[0].SpaNames = TokenGenerator.AddPermissions(roles);
+        return data[0];
         }
     }
 }
